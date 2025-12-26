@@ -8,16 +8,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a Full-Stack developer based in **Egypt** 🇪🇬, specializing in **ASP.NET Core** and **React**. I bridge the gap between complex backend logic and interactive frontend experiences.
 
-* 💻 **Backend:** .NET 8, Entity Framework Core, SQL Server
-* 🎨 **Frontend:** React, TypeScript, Tailwind CSS
+*  **Backend:** .NET 8, Entity Framework Core, SQL Server
+*  **Frontend:** React, TypeScript, Tailwind CSS
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
