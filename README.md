@@ -2,10 +2,6 @@
 <h3 align="center">Full-Stack .NET & React Developer</h3>
 
 <p align="center">
-  <i>Building modern, scalable web apps with clean architecture and performant UIs.</i>
-</p>
-
-<p align="center">
   <img src="https://github.com/MazenMahmoud21.png" width="150" style="border-radius:50%; border: 4px solid #512BD4;" alt="Mazen Mahmoud avatar" />
 </p>
 
@@ -18,7 +14,6 @@ I’m a Full-Stack developer based in **Egypt** 🇪🇬, specializing in **ASP.
 
 * 💻 **Backend:** .NET 8, Entity Framework Core, SQL Server
 * 🎨 **Frontend:** React, TypeScript, Tailwind CSS
-* 🎯 **Focus:** Clean Architecture, RESTful APIs, and Performance Optimization
 
 ---
 
