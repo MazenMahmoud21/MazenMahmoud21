@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Mahmoud</h1>
 <h3 align="center">Full-Stack .NET & React Developer</h3>
-
-<p align="center">
-  <img src="https://github.com/MazenMahmoud21.png" width="150" style="border-radius:50%; border: 4px solid #512BD4;" alt="Mazen Mahmoud avatar" />
-</p>
-
-
 ---
 
 ##  About Me
